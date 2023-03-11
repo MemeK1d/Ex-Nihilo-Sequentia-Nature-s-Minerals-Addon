@@ -1,0 +1,136 @@
+{
+  "mod_elements": [
+    {
+      "name": "PieceKunzite",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piece_kunzite"
+    },
+    {
+      "name": "PieceStibnite",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piece_stibnite"
+    },
+    {
+      "name": "PieceAstrite",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piece_astrite"
+    },
+    {
+      "name": "ChunkKunzite",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chunk_kunzite"
+    },
+    {
+      "name": "ChunkStibnite",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chunk_stibnite"
+    },
+    {
+      "name": "ChunkAstrite",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chunk_astrite"
+    },
+    {
+      "name": "KunziteChunk",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "kunzite_chunk"
+    },
+    {
+      "name": "StibniteChunk",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "stibnite_chunk"
+    },
+    {
+      "name": "AstriteChunk",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "astrite_chunk"
+    },
+    {
+      "name": "PieceUvarorite",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "piece_uvarovite"
+    },
+    {
+      "name": "ChunkUvarorite",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chunk_uvarovite"
+    },
+    {
+      "name": "UvaroriteChunk",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "uvarorite_chunk"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.exnihilonatureminerals.piece_astrite": "Piece Astrite",
+      "item.exnihilonatureminerals.chunk_uvarovite": "Chunk Uvarorvite",
+      "item.exnihilonatureminerals.piece_kunzite": "Piece Kunzite",
+      "item.exnihilonatureminerals.piece_stibnite": "Piece Stibnite",
+      "item.exnihilonatureminerals.chunk_kunzite": "Chunk Kunzite",
+      "item.exnihilonatureminerals.chunk_stibnite": "Chunk Stibnite",
+      "item.exnihilonatureminerals.chunk_astrite": "Chunk Astrite",
+      "item.exnihilonatureminerals.piece_uvarovite": "Piece Uvarovite"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "exnihilonatureminerals",
+    "modName": "无中生有：传承-natureminerals扩展",
+    "version": "1.0.0",
+    "author": "David, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.exnihilonatureminerals",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
