@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exnihilonatureminerals:piece_stibnite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_stibnite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_stibnite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_stibnite"
+    }
+  ],
+  "result": {
+    "item": "exnihilonatureminerals:chunk_stibnite",
+    "count": 1
+  }
+}
