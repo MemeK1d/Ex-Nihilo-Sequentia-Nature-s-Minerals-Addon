@@ -1,0 +1,27 @@
+{
+  "type": "exnihilosequentia:sieve",
+  "rolls": [
+    {
+      "chance": 0.001,
+      "mesh": "string"
+    },
+    {
+      "chance": 0.005,
+      "mesh": "iron"
+    },
+    {
+      "chance": 0.01,
+      "mesh": "diamond"
+    },
+    {
+      "chance": 0.015,
+      "mesh": "netherite"
+    }
+  ],
+  "input": {
+    "item": "minecraft:gravel"
+  },
+  "result": {
+    "item": "exnihilonatureminerals:piece_uvarovite"
+  }
+}

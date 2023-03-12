@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exnihilonatureminerals:piece_kunzite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_kunzite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_kunzite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_kunzite"
+    }
+  ],
+  "result": {
+    "item": "exnihilonatureminerals:chunk_kunzite",
+    "count": 1
+  }
+}

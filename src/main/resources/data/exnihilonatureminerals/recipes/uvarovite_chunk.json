@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exnihilonatureminerals:piece_uvarovite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_uvarovite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_uvarovite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_uvarovite"
+    }
+  ],
+  "result": {
+    "item": "exnihilonatureminerals:chunk_uvarovite",
+    "count": 1
+  }
+}

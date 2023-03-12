@@ -1,0 +1,11 @@
+{
+  "type": "exnihilosequentia:crucible",
+  "input": {
+    "item": "minecraft:blackstone"
+  },
+  "amount": 432,
+  "fluidResult": {
+    "fluid": "natureminerals:blood_lava"
+  },
+  "crucibleType": "fired"
+}

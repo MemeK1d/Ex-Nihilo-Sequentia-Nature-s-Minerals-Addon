@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "exnihilonatureminerals:piece_astrite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_astrite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_astrite"
+    },
+    {
+      "item": "exnihilonatureminerals:piece_astrite"
+    }
+  ],
+  "result": {
+    "item": "exnihilonatureminerals:chunk_astrite",
+    "count": 1
+  }
+}
